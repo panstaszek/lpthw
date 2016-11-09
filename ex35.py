@@ -3,7 +3,7 @@ from sys import exit
 
 print "PIERWSZA ZMIANA"
 print "i druga"
-print "hoh"
+print "hoh1"
 
 def gold_room():
     print "This room is full of gold. How much do you take?"
