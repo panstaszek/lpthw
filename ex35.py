@@ -1,5 +1,9 @@
 from sys import exit
 
+
+print "PIERWSZA ZMIANA"
+
+
 def gold_room():
     print "This room is full of gold. How much do you take?"
 
