@@ -1,6 +1,6 @@
 from sys import exit
 import random
-
+#adssadsadsadsad
 def deleting_card(x):
     for i in fulldeck:
         if i == x:
